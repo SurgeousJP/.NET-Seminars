@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|d:\\repos\\dotnetseminar\\compositedemo\\compositedemo\\compoundequipment\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|solutionrelative:compositedemo\\compoundequipment\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|d:\\repos\\dotnetseminar\\compositedemo\\compositedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|solutionrelative:compositedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|d:\\repos\\dotnetseminar\\compositedemo\\compositedemo\\singleequipment\\armorpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|solutionrelative:compositedemo\\singleequipment\\armorpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|d:\\repos\\dotnetseminar\\compositedemo\\compositedemo\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|solutionrelative:compositedemo\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|d:\\repos\\dotnetseminar\\compositedemo\\compositedemo\\singleequipment\\breastplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|solutionrelative:compositedemo\\singleequipment\\breastplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|d:\\repos\\dotnetseminar\\compositedemo\\compositedemo\\singleequipment\\legarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|solutionrelative:compositedemo\\singleequipment\\legarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|d:\\repos\\dotnetseminar\\compositedemo\\compositedemo\\singleequipment\\boots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|solutionrelative:compositedemo\\singleequipment\\boots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|d:\\repos\\dotnetseminar\\compositedemo\\compositedemo\\singleequipment\\helmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33573A7-D263-4FE8-B26F-19104DCBDC2E}|CompositeDemo\\CompositeDemo.csproj|solutionrelative:compositedemo\\singleequipment\\helmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\CompoundEquipment\\Armor.cs",
+              "RelativeDocumentMoniker": "CompositeDemo\\CompoundEquipment\\Armor.cs",
+              "ToolTip": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\CompoundEquipment\\Armor.cs",
+              "RelativeToolTip": "CompositeDemo\\CompoundEquipment\\Armor.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:48:56.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Helmet.cs",
+              "DocumentMoniker": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\SingleEquipment\\Helmet.cs",
+              "RelativeDocumentMoniker": "CompositeDemo\\SingleEquipment\\Helmet.cs",
+              "ToolTip": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\SingleEquipment\\Helmet.cs",
+              "RelativeToolTip": "CompositeDemo\\SingleEquipment\\Helmet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:27:48.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Boots.cs",
+              "DocumentMoniker": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\SingleEquipment\\Boots.cs",
+              "RelativeDocumentMoniker": "CompositeDemo\\SingleEquipment\\Boots.cs",
+              "ToolTip": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\SingleEquipment\\Boots.cs",
+              "RelativeToolTip": "CompositeDemo\\SingleEquipment\\Boots.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:26:03.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LegArmor.cs",
+              "DocumentMoniker": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\SingleEquipment\\LegArmor.cs",
+              "RelativeDocumentMoniker": "CompositeDemo\\SingleEquipment\\LegArmor.cs",
+              "ToolTip": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\SingleEquipment\\LegArmor.cs",
+              "RelativeToolTip": "CompositeDemo\\SingleEquipment\\LegArmor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:24:53.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BreastPlate.cs",
+              "DocumentMoniker": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\SingleEquipment\\BreastPlate.cs",
+              "RelativeDocumentMoniker": "CompositeDemo\\SingleEquipment\\BreastPlate.cs",
+              "ToolTip": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\SingleEquipment\\BreastPlate.cs",
+              "RelativeToolTip": "CompositeDemo\\SingleEquipment\\BreastPlate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:23:04.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArmorPiece.cs",
+              "DocumentMoniker": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\SingleEquipment\\ArmorPiece.cs",
+              "RelativeDocumentMoniker": "CompositeDemo\\SingleEquipment\\ArmorPiece.cs",
+              "ToolTip": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\SingleEquipment\\ArmorPiece.cs",
+              "RelativeToolTip": "CompositeDemo\\SingleEquipment\\ArmorPiece.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:43:13.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\Equipment.cs",
+              "RelativeDocumentMoniker": "CompositeDemo\\Equipment.cs",
+              "ToolTip": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\Equipment.cs",
+              "RelativeToolTip": "CompositeDemo\\Equipment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:21:10.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CompositeDemo\\Program.cs",
+              "ToolTip": "D:\\Repos\\dotnetSeminar\\CompositeDemo\\CompositeDemo\\Program.cs",
+              "RelativeToolTip": "CompositeDemo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:19:36.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

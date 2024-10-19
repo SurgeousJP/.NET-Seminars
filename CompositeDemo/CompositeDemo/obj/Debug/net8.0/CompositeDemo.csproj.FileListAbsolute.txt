@@ -1,0 +1,15 @@
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\bin\Debug\net8.0\CompositeDemo.exe
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\bin\Debug\net8.0\CompositeDemo.deps.json
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\bin\Debug\net8.0\CompositeDemo.runtimeconfig.json
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\bin\Debug\net8.0\CompositeDemo.dll
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\bin\Debug\net8.0\CompositeDemo.pdb
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.AssemblyInfoInputs.cache
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.AssemblyInfo.cs
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.csproj.CoreCompileInputs.cache
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.sourcelink.json
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.dll
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\obj\Debug\net8.0\refint\CompositeDemo.dll
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.pdb
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.genruntimeconfig.cache
+D:\Repos\dotnetSeminar\CompositeDemo\CompositeDemo\obj\Debug\net8.0\ref\CompositeDemo.dll
