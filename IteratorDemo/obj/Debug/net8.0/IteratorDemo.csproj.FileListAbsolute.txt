@@ -1,0 +1,14 @@
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\bin\Debug\net8.0\IteratorDemo.exe
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\bin\Debug\net8.0\IteratorDemo.deps.json
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\bin\Debug\net8.0\IteratorDemo.runtimeconfig.json
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\bin\Debug\net8.0\IteratorDemo.dll
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\bin\Debug\net8.0\IteratorDemo.pdb
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\obj\Debug\net8.0\IteratorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\obj\Debug\net8.0\IteratorDemo.AssemblyInfoInputs.cache
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\obj\Debug\net8.0\IteratorDemo.AssemblyInfo.cs
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\obj\Debug\net8.0\IteratorDemo.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\obj\Debug\net8.0\IteratorDemo.dll
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\obj\Debug\net8.0\refint\IteratorDemo.dll
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\obj\Debug\net8.0\IteratorDemo.pdb
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\obj\Debug\net8.0\IteratorDemo.genruntimeconfig.cache
+C:\Users\tuanb\Downloads\.NET Core\IteratorDemo\obj\Debug\net8.0\ref\IteratorDemo.dll
