@@ -9,6 +9,7 @@
     }
     internal class ArmorPiece :Equipment
     {
+        public int Durability { get; protected set; }
         private int MaxDurability { get; set; }
         protected Material Type { get; set; }
         public ArmorPiece(Material _type)
