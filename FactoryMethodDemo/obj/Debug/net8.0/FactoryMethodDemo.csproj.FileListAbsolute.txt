@@ -1,0 +1,15 @@
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\obj\Debug\net8.0\FactoryMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\obj\Debug\net8.0\FactoryMethodDemo.AssemblyInfoInputs.cache
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\obj\Debug\net8.0\FactoryMethodDemo.AssemblyInfo.cs
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\obj\Debug\net8.0\FactoryMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\obj\Debug\net8.0\FactoryMethodDemo.sourcelink.json
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\bin\Debug\net8.0\FactoryMethodDemo.exe
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\bin\Debug\net8.0\FactoryMethodDemo.deps.json
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\bin\Debug\net8.0\FactoryMethodDemo.runtimeconfig.json
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\bin\Debug\net8.0\FactoryMethodDemo.dll
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\bin\Debug\net8.0\FactoryMethodDemo.pdb
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\obj\Debug\net8.0\FactoryMethodDemo.dll
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\obj\Debug\net8.0\refint\FactoryMethodDemo.dll
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\obj\Debug\net8.0\FactoryMethodDemo.pdb
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\obj\Debug\net8.0\FactoryMethodDemo.genruntimeconfig.cache
+C:\Users\Tien Anh\.NET-Seminars\FactoryMethodDemo\obj\Debug\net8.0\ref\FactoryMethodDemo.dll
